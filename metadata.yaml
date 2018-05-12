@@ -1,10 +1,16 @@
 _repo: En-qvinna-af-var-tid-Karaktersteckning_50062
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50062-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Linder, Marie
     gutenberg_agent_id: '45685'
     url: http://www.gutenberg.org/2009/agents/45685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50062#En-qvinna-af-var-tid-Karaktersteckning
 gutenberg_issued: '2015-09-26'
 gutenberg_type: Text
 identifiers:
