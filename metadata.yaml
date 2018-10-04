@@ -19,5 +19,7 @@ language: sv
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "En qvinna af vår tid\r\nKaraktersteckning"
 url: http://www.gutenberg.org/ebooks/50062
